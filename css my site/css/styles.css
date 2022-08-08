@@ -1,0 +1,125 @@
+body{
+  color: white;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Caveat', cursive;
+  font-size: 2em;
+  font-weight: 300;
+
+}
+.background{
+  background-size: cover;
+  height: 100vh;
+  width: 90%;
+}
+p{
+  color: #F1F1F1;
+  line-height: 2;
+}
+
+h1{
+  color: #A27B5C;
+  font-size: 4.620rem;
+    font-family: 'Square Peg', cursive;
+  width: 10%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+h2{
+  color: #A27B5C;
+  font-family: 'Square Peg', cursive;
+}
+h3{
+  color: #A27B5C;
+  font-family: 'Square Peg', cursive;
+
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+padding-bottom: 0;
+  text-align:left;
+}
+.camera{
+  width: 25%;
+  float: center;
+  margin-right: 30px;
+}
+div{
+  background-color: #2C3639;
+  padding:0;
+  margin:0;
+
+
+}
+.top-container {
+  position: relative;
+  padding-top: 110px;
+  padding-bottom: 0;
+  background-color: #2C3639;
+
+}
+.middle-container {
+   margin: 100px 0;
+   padding-bottom: 0;
+}
+
+.bottom-container {
+  background-color: #A27B5C;
+  padding: 50px 0 20px;
+}
+
+.profile{
+  padding-bottom: 0;
+}
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+  padding-bottom: 0;
+}
+
+.copyright{
+  color: #DCD7C9;
+  font-size: 0.85rem;
+}
+
+
+.btn {
+  background: #dea5dc;
+  background-image: -webkit-linear-gradient(top, #dea5dc, #6c289c);
+  background-image: -moz-linear-gradient(top, #dea5dc, #6c289c);
+  background-image: -ms-linear-gradient(top, #dea5dc, #6c289c);
+  background-image: -o-linear-gradient(top, #dea5dc, #6c289c);
+  background-image: linear-gradient(to bottom, #dea5dc, #6c289c);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #a400b3;
+  background-image: -webkit-linear-gradient(top, #a400b3, #b557a7);
+  background-image: -moz-linear-gradient(top, #a400b3, #b557a7);
+  background-image: -ms-linear-gradient(top, #a400b3, #b557a7);
+  background-image: -o-linear-gradient(top, #a400b3, #b557a7);
+  background-image: linear-gradient(to bottom, #a400b3, #b557a7);
+  text-decoration: none;
+}
+
+a{
+  color: #dea5dc;
+  font-family: 'Caveat', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+  }
+  a:hover{
+    color: #DCD7C9;
+  }
